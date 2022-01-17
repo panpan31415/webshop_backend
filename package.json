@@ -19,5 +19,6 @@
   "homepage": "https://github.com/panpan31415/webshop_backend#readme",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "type": "module"
 }
