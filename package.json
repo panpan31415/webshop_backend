@@ -1,0 +1,23 @@
+{
+  "name": "webshop_backend",
+  "version": "1.0.0",
+  "description": "webhop backend, a project to practise express ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panpan31415/webshop_backend.git"
+  },
+  "author": "panpan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panpan31415/webshop_backend/issues"
+  },
+  "homepage": "https://github.com/panpan31415/webshop_backend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
