@@ -1,7 +1,7 @@
 import { Connection, createConnection, Repository } from "typeorm";
 import { config } from "dotenv";
 import { Product } from "../../entity/Product";
-import products from "./products";
+import products from "../../services/db/products";
 
 config({ path: "./db.env" });
 
